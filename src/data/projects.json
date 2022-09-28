@@ -1,0 +1,35 @@
+[
+  {
+    "projectTag": "Latest Project",
+    "title": "Wall of Wonder",
+    "desc": "Description of the project.This should be fairly concise while also describing the key components that you,developed or worked on. It can be as long as you need it to be but should at least be a few sentences long. Be sure to include specific links anywhere in the description. A link looks like <a href=\"https://frontendmasters.github.io/grid-flexbox-v2/\">this</a> , and multiple links look <a href=\"#\">like this</a> and <a href=\"#\">like this</a>.",
+    "techStacks": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "image": "https://assets.codepen.io/296057/fem-gettingstartedcss-ch5-1.png"
+  },
+  {
+    "projectTag": "Bootcamp Project",
+    "title": "Feed-A-Star-Mole Game",
+    "desc": " Description of the project. This should be fairly concise while also describing the key components\n                    that you developed or worked on. It can be as long as you need it to be but should at least be a few\n                    sentences long. Be sure to include specific links anywhere\n                    in the description. A link looks like\n                    <a href=\"https://frontendmasters.github.io/bootcamp/mole\">this</a>, and multiple links look <a\n                        href=\"#\">like this</a> and\n                    <a href=\"#\">like this</a>.",
+    "techStacks": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "image": "https://assets.codepen.io/296057/fem-gettingstartedcss-ch5-5.png"
+  },
+  {
+    "projectTag": "Photography Project",
+    "title": "Wall of Wonder Collection",
+    "desc": " Description of the project. This should be fairly concise while also describing the key components\n                    that you developed or worked on. It can be as long as you need it to be but should at least be a few\n                    sentences long. Be sure to include specific links anywhere\n                    in the description. A link looks like\n                    <a href=\"https://frontendmasters.github.io/bootcamp/mole\">this</a>, and multiple links look <a\n                        href=\"#\">like this</a> and\n                    <a href=\"#\">like this</a>.",
+    "techStacks": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "image": "https://assets.codepen.io/296057/fem-gettingstartedcss-ch5-4.png"
+  }
+]
