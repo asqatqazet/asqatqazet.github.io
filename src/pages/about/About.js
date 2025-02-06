@@ -6,17 +6,20 @@ import intro from "../../data/self-intro.json"
 import me from "../../data/me.png"
 
 //handle local image
-intro[0].image=me
+intro[0].image = me
 
 let BottomLinedGradientBackground = withBottomLineGradient(
     RenderBackground
 );
-export class About extends Component{
+intro[0].techIntro = "Languages I know";
+
+export class About extends Component {
+
     render() {
         return <BottomLinedGradientBackground
             backgroundColor={'var(--dkblue)'}
             renderContent={() => <ContentWithImage
-                title="About Askhat Khazet"
+                title="About Asihati Hazaiti"
                 contentItems={intro}
             />}
         />

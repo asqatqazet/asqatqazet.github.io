@@ -9,7 +9,7 @@ const NavBar = () => {
                 <h1>
                     <Link to="/">
                         <span className="fa-solid fa-moon"></span>
-                        <span>Askhat</span>
+                        <span>Asqat</span>
                     </Link>
                 </h1>
             </li>

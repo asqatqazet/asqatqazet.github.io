@@ -1,11 +1,12 @@
 [
   {
-    "title": "Wall of Wonder",
-    "desc": "Description of the project.This should be fairly concise while also describing the key components that you,developed or worked on. It can be as long as you need it to be but should at least be a few sentences long. Be sure to include specific links anywhere in the description. A link looks like <a href=\"https://frontendmasters.github.io/grid-flexbox-v2/\">this</a> , and multiple links look <a href=\"#\">like this</a> and <a href=\"#\">like this</a>.",
+    "title": "OBJECTIVE & PERSONAL SUMMARY",
+    "desc": "I am a software developer, problem solver, enthusiast in cultural exchanges. Quick learner, skilled team player,\ncan work well independently to handle tasks and always ready to go beyond basic solutions.\nMy interests lie in data and genetics, applying computational methods to various areas of biology,\nsuch as genetic basis of diseases, drug discovery and evolution.",
     "techStacks": [
-      "HTML",
-      "CSS",
-      "JS"
+      "English",
+      "Chinese",
+      "Kazakh",
+      "Uyghur"
     ],
     "image": "/me.png"
   }
