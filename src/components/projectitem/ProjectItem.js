@@ -1,15 +1,16 @@
 const ProjectItem = (props) => {
-    let {projectTag, title, desc, techStacks, image, index,techIntro } = props
+    let {projectTag, title, desc, techStacks, image, index,techIntro,duration} = props
     if (!techIntro) techIntro = "Technologies Used"
     return <article className={index % 2 === 0 ? "" : "reverse"}>
         <div className="text">
             <h4>{projectTag}</h4>
             <h3>{title}</h3>
+            <h4>{duration}</h4>
             <p className="blackbox" dangerouslySetInnerHTML={{__html: desc}}></p>
             <h4>{techIntro}</h4>
             <ul>{
                 techStacks && techStacks.map(
-                    (techStack,index)=> <li key={index}>{techStack}</li>
+                    (techStack, index) => <li key={index}>{techStack}</li>
                 )
             }
             </ul>

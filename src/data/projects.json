@@ -1,35 +1,126 @@
 [
   {
     "projectTag": "Latest Project",
-    "title": "Wall of Wonder",
-    "desc": "Description of the project.This should be fairly concise while also describing the key components that you,developed or worked on. It can be as long as you need it to be but should at least be a few sentences long. Be sure to include specific links anywhere in the description. A link looks like <a href=\"https://frontendmasters.github.io/grid-flexbox-v2/\">this</a> , and multiple links look <a href=\"#\">like this</a> and <a href=\"#\">like this</a>.",
+    "title": "PoSyMed4U: A Platform for Population Systems Medicine",
+    "duration": "2024.12 - Present",
+    "desc": "PoSyMed4U is a personalized medicine platform that enables patient stratification using gene-expression data. It integrates multiple machine learning and deep learning models to analyze biomedical data for precision medicine applications. The platform supports various clustering and classification models, such as BiCoN, DysRegNet, MoSBi, UnPaSt, SCANet, Spycone, and Geneformer, each designed for different aspects of disease subtype identification and patient grouping. The system streamlines the analysis process by providing one-click solutions for healthcare and research professionals, enhancing decision-making in precision medicine.",
     "techStacks": [
-      "HTML",
-      "CSS",
-      "JS"
+      "Python",
+      "Deep Learning",
+      "Gene Expression Analysis"
     ],
-    "image": "https://assets.codepen.io/296057/fem-gettingstartedcss-ch5-1.png"
+     "image": "posimed.jpg"
   },
   {
-    "projectTag": "Bootcamp Project",
-    "title": "Feed-A-Star-Mole Game",
-    "desc": " Description of the project. This should be fairly concise while also describing the key components\n                    that you developed or worked on. It can be as long as you need it to be but should at least be a few\n                    sentences long. Be sure to include specific links anywhere\n                    in the description. A link looks like\n                    <a href=\"https://frontendmasters.github.io/bootcamp/mole\">this</a>, and multiple links look <a\n                        href=\"#\">like this</a> and\n                    <a href=\"#\">like this</a>.",
+    "projectTag": "Professional Experience",
+    "title": "ThoughtWorks China Ltd.",
+    "duration": "2021.07 - 2024.06",
+    "desc": "Worked in various key client projects within an agile development team, consistently meeting project timelines and deliverable objectives.",
     "techStacks": [
-      "HTML",
-      "CSS",
-      "JS"
+      "Agile Development",
+      "Software Engineering",
+      "Consulting"
     ],
-    "image": "https://assets.codepen.io/296057/fem-gettingstartedcss-ch5-5.png"
+    "image": "me.png"
   },
   {
-    "projectTag": "Photography Project",
-    "title": "Wall of Wonder Collection",
-    "desc": " Description of the project. This should be fairly concise while also describing the key components\n                    that you developed or worked on. It can be as long as you need it to be but should at least be a few\n                    sentences long. Be sure to include specific links anywhere\n                    in the description. A link looks like\n                    <a href=\"https://frontendmasters.github.io/bootcamp/mole\">this</a>, and multiple links look <a\n                        href=\"#\">like this</a> and\n                    <a href=\"#\">like this</a>.",
+    "projectTag": "Client Projects",
+    "title": "Project OMJ (Our Marriage Journey)",
+    "duration": "2021.07 - 2021.10",
+    "desc": "Worked as a developer, mainly contributing to frontend and backend feature development. Collaborated with cross-functional teams, including UI/UX designers, QAs, and other software developers, to deliver a government public service portal serving multi-million people. Gained hands-on experience in designing and implementing microservices architecture, enhancing application scalability and facilitating the agile development process.",
     "techStacks": [
-      "HTML",
-      "CSS",
-      "JS"
+      "Kotlin",
+      "Spring Boot",
+      "JavaScript",
+      "React",
+      "PostgreSQL"
     ],
-    "image": "https://assets.codepen.io/296057/fem-gettingstartedcss-ch5-4.png"
+    "image": "omj.png"
+  },
+  {
+    "projectTag": "Client Projects",
+    "title": "Project SCB NextGen",
+    "duration": "2021.12 - 2023.05",
+    "desc": "Phase 1: Contributed as a pivotal team member and Feature Lead in customer identity and access management using ForgeRock AM, LDAP Directory Services, and authentication protocols (OAuth2, WebAuthn). Developed key features like SMS OTP, biometrics login, customer registration, and session management.\n\nPhase 2: Transitioned to the client's security team to address security vulnerabilities across Standard Chartered’s global IT deployments, significantly minimizing security risks.",
+    "techStacks": [
+      "Java",
+      "Spring Boot",
+      "JavaScript",
+      "LDAP",
+      "ForgeRock AM",
+      "OAuth2",
+      "WebAuthn",
+      "PostgreSQL"
+    ],
+    "image": "scb.png"
+  },
+  {
+    "projectTag": "Client Projects",
+    "title": "Project Electrolux",
+    "duration": "2023.07 - 2024.01",
+    "desc": "Assisted in the project discovery phase, helping with technical solutioning. During delivery, contributed significantly by migrating production data to the new retailing web store solution (VTEX). Led feature deliveries, onboarded new team members, and created proof-of-concept demos.",
+    "techStacks": [
+      "Kotlin",
+      "Spring Boot",
+      "SOAP API",
+      "VTEX",
+      "JavaScript",
+      "Node.js",
+      "Cosmos DB",
+      "Azure Functions"
+    ],
+    "image": "electrolux.png"
+  },
+  {
+    "projectTag": "Client Projects",
+    "title": "Project Sephora",
+    "duration": "2024.04 - 2024.05",
+    "desc": "Quickly adapted to the project’s business context and added a significant amount of unit and integration tests. Developed business-related Excel templates using the EasyExcel library, enabling bulk data uploads and modifications.",
+    "techStacks": [
+      "Kotlin",
+      "Spring Boot",
+      "EasyExcel",
+      "Testing",
+      "Mockito",
+      "MySQL"
+    ],
+    "image": "sephora.png"
+  },
+  {
+    "projectTag": "Trainings",
+    "title": "Data Engineering Accelerated",
+    "duration": "2024.02",
+    "desc": "Gained an end-to-end understanding of the data engineering ecosystem. Acquired hands-on experience with Apache Spark on Databricks, explored Big Data handling techniques and architectures, and learned about ThoughtWorks' cutting-edge Data offerings.",
+    "techStacks": [
+      "Apache Spark",
+      "Databricks",
+      "Big Data",
+      "Data Engineering"
+    ],
+    "image": "data.png"
+  },
+  {
+    "projectTag": "Trainings",
+    "title": "ThoughtWorks University",
+    "duration": "2021.10 - 2021.11",
+    "desc": "Participated in an intensive training program for new graduates, covering software development practices in multifunctional teams, agile methodologies, and programming languages. The program helped integrate into ThoughtWorks' corporate culture and prepared me for global software consulting projects.",
+    "techStacks": [
+      "Agile",
+      "Software Development",
+      "Consulting"
+    ],
+    "image": "twu.png"
+  },
+  {
+    "projectTag": "Internship",
+    "title": "ChinaSoft International",
+    "duration": "2019.07 - 2019.09",
+    "desc": "Assisted in data analysis of climate data spanning the past century and its visualization based on geographical positions.",
+    "techStacks": [
+      "Data Analysis",
+      "Data Visualization",
+      "Geospatial Data"
+    ],
+    "image": "china-soft.png"
   }
 ]

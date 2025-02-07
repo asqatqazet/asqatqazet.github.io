@@ -51,7 +51,7 @@ const NavBar = () => {
                     className="sr-only">Github</span></a>
             </li>
             <li>
-                <a href="../../../public/index.html" className="button">Resume</a>
+                <a href="Asihat_Hazaiti_Dec_2024_Res_CV.pdf" className="button">Resumé</a>
             </li>
         </ul>
     </nav>

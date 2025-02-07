@@ -18,7 +18,7 @@ const Home = () => {
             backgroundColor={'var(--dkblue)'}
             renderContent={
                 () => <ContentWithImage
-                    title="Projects I'm Proud of"
+                    title="Projects I joined"
                     contentItems={projects}
                 />
             }
