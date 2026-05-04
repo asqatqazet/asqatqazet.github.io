@@ -1,0 +1,20 @@
+{
+  "name": "Asihati Hazaiti",
+  "handle": "asqatqazet",
+  "title": "Software & Data Engineer",
+  "location": "Hamburg, DE",
+  "tagline": "AI · Robotics · Data · Genetics",
+  "bio": "Software developer and problem solver, passionate about data, robotics, and artificial intelligence. Currently pursuing an MSc in Intelligent Adaptive Systems at the University of Hamburg while building cross-platform apps at Simplience GmbH. Three years prior at ThoughtWorks China across banking security, retail migration, and government portals. Polyglot in five languages, fluent in shipping software.",
+  "email": "asqat@qq.com",
+  "github": "asqatqazet",
+  "linkedin": "asihati-hazaiti",
+  "resumeUrl": "/assets/Asihati_Hazaiti_Resume.pdf",
+  "portrait": "/assets/me.png",
+  "languages": [
+    { "code": "en", "name": "English", "level": "C1 Proficient", "greeting": "Hello" },
+    { "code": "zh", "name": "Mandarin", "level": "Native", "greeting": "你好" },
+    { "code": "kk", "name": "Kazakh", "level": "Native", "greeting": "Сәлем" },
+    { "code": "ug", "name": "Uyghur", "level": "Proficient", "greeting": "ياخشىمۇسىز" },
+    { "code": "de", "name": "German", "level": "B1 Intermediate", "greeting": "Hallo" }
+  ]
+}
