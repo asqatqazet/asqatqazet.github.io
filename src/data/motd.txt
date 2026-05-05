@@ -1,9 +1,0 @@
-    _    ____ ___ _   _    _  _____ ___      _____  _______
-   / \  / ___|_ _| | | |  / \|_   _|_ _|    | ____| \ \/ / ____|
-  / _ \ \___ \| || |_| | / _ \ | |  | |     |  _|    \  /|  _|
- / ___ \ ___) | ||  _  |/ ___ \| |  | |  _  | |___   /  \| |___
-/_/   \_\____/___|_| |_/_/   \_\_| |___|(_) |_____| /_/\_\_____|
-
-  // Asihati Hazaiti :: Software & Data Engineer
-  // Hamburg, DE   ·   AI · Robotics · Data · Genetics
-  // Boot complete. Type `help` for available commands.
