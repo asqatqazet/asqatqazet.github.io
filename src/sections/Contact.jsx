@@ -16,7 +16,7 @@ export default function Contact() {
         <div className="space-y-3 font-mono">
           <Row label="email" value={profile.email} href={`mailto:${profile.email}`} />
           <Row label="github" value={`github.com/${profile.github}`} href={`https://github.com/${profile.github}`} />
-          <Row label="linkedin" value={`linkedin.com/in/${profile.linkedin}`} href={`https://linkedin.com/in/${profile.linkedin}`} />
+          <Row label="linkedin" value={`linkedin.com/in/${profile.linkedin}`} href={`https://www.linkedin.com/in/${profile.linkedin}`} />
           <Row label="location" value={profile.location} />
           <Row label="resume" value="Asihati_Hazaiti_Resume.pdf" href={profile.resumeUrl} />
         </div>
