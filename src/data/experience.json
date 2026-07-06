@@ -8,7 +8,13 @@
     "start": "2025-06",
     "end": null,
     "summary": "Building Ionic-based cross-platform mobile applications for iOS and Android using Angular and TypeScript.",
-    "stack": ["Ionic", "Angular", "TypeScript", "iOS", "Android"]
+    "stack": [
+      "Ionic",
+      "Angular",
+      "TypeScript",
+      "iOS",
+      "Android"
+    ]
   },
   {
     "id": "uhh",
@@ -19,7 +25,13 @@
     "start": "2024-10",
     "end": null,
     "summary": "Graduate program at the intersection of AI, robotics, and cognitive systems. Coursework includes Bio-inspired AI, Machine Learning, Computer Vision, Robot Technology, Intelligent Robotics, Knowledge Processing, Biostatistics, and Advanced Software Engineering.",
-    "stack": ["Bio-inspired AI", "Machine Learning", "Computer Vision", "Intelligent Robotics", "Biostatistics"]
+    "stack": [
+      "Bio-inspired AI",
+      "Machine Learning",
+      "Computer Vision",
+      "Intelligent Robotics",
+      "Biostatistics"
+    ]
   },
   {
     "id": "thoughtworks",
@@ -30,8 +42,23 @@
     "start": "2021-07",
     "end": "2024-06",
     "summary": "Three years across agile delivery teams on banking security, retail migration, e-commerce, and government public service. Tech-led one engagement, mentored newcomers, and remediated security vulnerabilities at a global bank.",
-    "stack": ["Java", "Kotlin", "Spring Boot", "React", "Node.js", "VTEX", "OAuth2", "WebAuthn", "ForgeRock"],
-    "subProjects": ["sephora", "electrolux", "scb", "omj"]
+    "stack": [
+      "Java",
+      "Kotlin",
+      "Spring Boot",
+      "React",
+      "Node.js",
+      "VTEX",
+      "OAuth2",
+      "WebAuthn",
+      "ForgeRock"
+    ],
+    "subProjects": [
+      "sephora",
+      "electrolux",
+      "scb",
+      "omj"
+    ]
   },
   {
     "id": "nankai",
@@ -42,7 +69,12 @@
     "start": "2017-09",
     "end": "2021-06",
     "summary": "Core coursework in algorithms, linear algebra, probability and statistics, operating systems. Thesis: browser-based multi-layer Gerber file viewer using JavaScript and HTML Canvas.",
-    "stack": ["Algorithms", "OS", "JavaScript", "HTML Canvas"]
+    "stack": [
+      "Algorithms",
+      "OS",
+      "JavaScript",
+      "HTML Canvas"
+    ]
   },
   {
     "id": "chinasoft",
@@ -53,6 +85,10 @@
     "start": "2019-07",
     "end": "2019-09",
     "summary": "Analyzed century-long climate datasets and produced geographically-grounded visualizations.",
-    "stack": ["Data Analysis", "Visualization", "Geospatial"]
+    "stack": [
+      "Data Analysis",
+      "Visualization",
+      "Geospatial"
+    ]
   }
 ]

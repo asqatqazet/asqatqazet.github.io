@@ -1,8 +1,53 @@
 {
-  "languages": ["Java", "Kotlin", "Python", "TypeScript", "JavaScript", "Golang", "C"],
-  "web": ["Spring Boot", "Angular", "React", "Node.js", "Ionic", "HTML5", "CSS3", "REST", "SOAP"],
-  "ml": ["TensorFlow", "PyTorch", "Scikit-learn", "Geneformer", "Pandas", "NumPy"],
-  "data": ["Apache Spark", "PySpark", "Databricks", "PostgreSQL", "MySQL", "NoSQL", "LDAP", "Elasticsearch"],
-  "cloud": ["AWS", "Azure", "Azure Functions", "Linux/Unix", "Shell"],
-  "security": ["OAuth2", "WebAuthn", "ForgeRock AM", "OWASP Top 10"]
+  "languages": [
+    "Java",
+    "Kotlin",
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "Golang",
+    "C"
+  ],
+  "web": [
+    "Spring Boot",
+    "Angular",
+    "React",
+    "Node.js",
+    "Ionic",
+    "HTML5",
+    "CSS3",
+    "REST",
+    "SOAP"
+  ],
+  "ml": [
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "Geneformer",
+    "Pandas",
+    "NumPy"
+  ],
+  "data": [
+    "Apache Spark",
+    "PySpark",
+    "Databricks",
+    "PostgreSQL",
+    "MySQL",
+    "NoSQL",
+    "LDAP",
+    "Elasticsearch"
+  ],
+  "cloud": [
+    "AWS",
+    "Azure",
+    "Azure Functions",
+    "Linux/Unix",
+    "Shell"
+  ],
+  "security": [
+    "OAuth2",
+    "WebAuthn",
+    "ForgeRock AM",
+    "OWASP Top 10"
+  ]
 }
