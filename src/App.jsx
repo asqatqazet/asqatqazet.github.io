@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import CRTOverlay from './components/CRTOverlay.jsx';
 import TelemetryHUD from './components/TelemetryHUD.jsx';
 import SectionNav from './components/SectionNav.jsx';
-import Hero from './sections/Hero.jsx';
+import TerminalHero from './sections/TerminalHero.jsx';
 import About from './sections/About.jsx';
 import Experience from './sections/Experience.jsx';
 import Projects from './sections/Projects.jsx';
@@ -70,11 +70,7 @@ export default function App() {
       <TelemetryHUD soundOn={soundOn} onToggleSound={handleToggleSound} />
       <SectionNav />
       <main className="snap-y">
-        <Hero
-          onSetTheme={setTheme}
-          onSetSound={setSoundOn}
-          onOpenResume={handleOpenResume}
-        />
+        <TerminalHero />
         <About />
         <Experience />
         <Projects />
