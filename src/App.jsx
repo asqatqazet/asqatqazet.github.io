@@ -15,10 +15,10 @@ import useLocalStorage from './lib/useLocalStorage.js';
 import profile from './data/profile.json';
 
 const THEMES = {
-  gray: { accent: '#ffffff', dim: '#9ca3af', fg: '#d1d5db' },
-  green: { accent: '#7cffb2', dim: '#3aa86b', fg: '#d6f7d6' },
-  amber: { accent: '#ffb347', dim: '#a86d22', fg: '#f7e7c6' },
-  magenta: { accent: '#ff5fd2', dim: '#a8237a', fg: '#f7d6e7' },
+  gray: { accent: '#ffffff', dim: '#6b7280', fg: '#f3f4f6', fgDim: '#9ca3af' },
+  green: { accent: '#7cffb2', dim: '#3aa86b', fg: '#d6f7d6', fgDim: '#8aa68a' },
+  amber: { accent: '#ffb347', dim: '#a86d22', fg: '#f7e7c6', fgDim: '#a8864d' },
+  magenta: { accent: '#ff5fd2', dim: '#a8237a', fg: '#f7d6e7', fgDim: '#a86d92' },
 };
 
 export default function App() {
@@ -30,6 +30,7 @@ export default function App() {
     document.documentElement.style.setProperty('--color-accent', t.accent);
     document.documentElement.style.setProperty('--color-accent-dim', t.dim);
     document.documentElement.style.setProperty('--color-fg', t.fg);
+    document.documentElement.style.setProperty('--color-fg-dim', t.fgDim);
   }, [theme]);
 
   // First-gesture audio init

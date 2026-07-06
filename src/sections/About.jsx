@@ -22,7 +22,7 @@ export default function About() {
           </h3>
           <p className="text-[var(--color-fg-dim)] leading-relaxed">{profile.bio}</p>
           <p className="text-sm text-[var(--color-fg-dim)]">
-            <span className="text-[var(--color-amber)]">$</span> tagline → <span className="text-[var(--color-accent)]">{profile.tagline}</span>
+            <span className="text-[var(--color-fg-dim)]">$</span> tagline → <span className="text-[var(--color-accent)]">{profile.tagline}</span>
           </p>
           <div className="flex gap-3 flex-wrap pt-4">
             <a
