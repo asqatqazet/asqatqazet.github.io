@@ -7,13 +7,7 @@
     "duration": "2024.12 — Present",
     "image": "/assets/projects/posimed.jpg",
     "summary": "Personalized medicine platform for patient stratification using gene-expression data. Integrates BiCoN, DysRegNet, MoSBi, UnPaSt, SCANet, Spycone, and Geneformer models behind a one-click research interface.",
-    "stack": [
-      "Python",
-      "Deep Learning",
-      "Geneformer",
-      "Gene Expression",
-      "Patient Stratification"
-    ],
+    "stack": ["Python", "Deep Learning", "Geneformer", "Gene Expression", "Patient Stratification"],
     "links": []
   },
   {
@@ -24,13 +18,7 @@
     "duration": "2024.04 — 2024.06",
     "image": "/assets/projects/sephora.png",
     "summary": "Supplemented backend with extensive unit and integration tests; built EasyExcel templates enabling bulk data uploads and modifications for business teams.",
-    "stack": [
-      "Kotlin",
-      "Spring Boot",
-      "EasyExcel",
-      "Mockito",
-      "MySQL"
-    ],
+    "stack": ["Kotlin", "Spring Boot", "EasyExcel", "Mockito", "MySQL"],
     "links": []
   },
   {
@@ -41,14 +29,7 @@
     "duration": "2023.07 — 2024.01",
     "image": "/assets/projects/electrolux.png",
     "summary": "Led the project discovery phase, provided technical solutions and PoCs, migrated production data to a new VTEX-based retail web store, and mentored newcomers while establishing the codebase scaffold.",
-    "stack": [
-      "Kotlin",
-      "Spring Boot",
-      "VTEX",
-      "Node.js",
-      "PostgreSQL",
-      "Azure Functions"
-    ],
+    "stack": ["Kotlin", "Spring Boot", "VTEX", "Node.js", "PostgreSQL", "Azure Functions"],
     "links": []
   },
   {
@@ -59,15 +40,7 @@
     "duration": "2021.12 — 2023.05",
     "image": "/assets/projects/scb.png",
     "summary": "Identity & access management modernization. Built SMS OTP, biometric login, and session management on OAuth2 + WebAuthn. Later transitioned to the security team to remediate vulnerabilities across global IT deployments.",
-    "stack": [
-      "Java",
-      "Spring Boot",
-      "LDAP",
-      "ForgeRock",
-      "OAuth2",
-      "WebAuthn",
-      "PostgreSQL"
-    ],
+    "stack": ["Java", "Spring Boot", "LDAP", "ForgeRock", "OAuth2", "WebAuthn", "PostgreSQL"],
     "links": []
   },
   {
@@ -78,13 +51,7 @@
     "duration": "2021.07 — 2021.10",
     "image": "/assets/projects/omj.png",
     "summary": "Frontend and backend feature development on a microservice-architected portal serving multi-million users. Cross-functional team with UX, QA, and engineering.",
-    "stack": [
-      "Kotlin",
-      "Spring Boot",
-      "React",
-      "PostgreSQL",
-      "AWS"
-    ],
+    "stack": ["Kotlin", "Spring Boot", "React", "PostgreSQL", "AWS"],
     "links": []
   },
   {
@@ -95,11 +62,7 @@
     "duration": "2024.02",
     "image": "/assets/projects/data.png",
     "summary": "End-to-end data engineering ecosystem training. Hands-on Apache Spark on Databricks, big data architectures, and ThoughtWorks data offerings.",
-    "stack": [
-      "Apache Spark",
-      "Databricks",
-      "Big Data"
-    ],
+    "stack": ["Apache Spark", "Databricks", "Big Data"],
     "links": []
   },
   {
@@ -110,11 +73,7 @@
     "duration": "2021.10 — 2021.11",
     "image": "/assets/projects/twu.png",
     "summary": "Intensive training program for new graduates: software development practices in cross-functional teams, agile methodologies, and global consulting culture.",
-    "stack": [
-      "Agile",
-      "Software Development",
-      "Consulting"
-    ],
+    "stack": ["Agile", "Software Development", "Consulting"],
     "links": []
   },
   {
@@ -125,11 +84,7 @@
     "duration": "2019.07 — 2019.09",
     "image": "/assets/projects/china-soft.png",
     "summary": "Analyzed century-long climate data and produced geographically-grounded visualizations.",
-    "stack": [
-      "Data Analysis",
-      "Geospatial",
-      "Visualization"
-    ],
+    "stack": ["Data Analysis", "Geospatial", "Visualization"],
     "links": []
   }
 ]
