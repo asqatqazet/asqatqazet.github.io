@@ -4,5 +4,6 @@
   "ml": ["TensorFlow", "PyTorch", "Scikit-learn", "Geneformer", "Pandas", "NumPy"],
   "data": ["Apache Spark", "PySpark", "Databricks", "PostgreSQL", "MySQL", "NoSQL", "LDAP", "Elasticsearch"],
   "cloud": ["AWS", "Azure", "Azure Functions", "Linux/Unix", "Shell"],
-  "security": ["OAuth2", "WebAuthn", "ForgeRock AM", "OWASP Top 10"]
+  "security": ["OAuth2", "WebAuthn", "ForgeRock AM", "OWASP Top 10"],
+  "robotics": ["Computer Vision", "Model-based RL", "TD-MPC", "Continuous Control", "HRI"]
 }

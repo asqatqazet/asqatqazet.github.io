@@ -2,12 +2,13 @@ import skills from '../data/skills.json';
 import { SectionHeader } from './About.jsx';
 
 const GROUPS = [
-  { key: 'languages', label: 'Languages', symbol: '<>' },
-  { key: 'web', label: 'Web / Backend', symbol: '{}' },
   { key: 'ml', label: 'ML / AI', symbol: '∇' },
+  { key: 'robotics', label: 'Robotics', symbol: '⚙' },
   { key: 'data', label: 'Data & Storage', symbol: '⊞' },
-  { key: 'cloud', label: 'Cloud / DevOps', symbol: '☁' },
   { key: 'security', label: 'Security', symbol: '⌬' },
+  { key: 'cloud', label: 'Cloud / DevOps', symbol: '☁' },
+  { key: 'web', label: 'Web / Backend', symbol: '{}' },
+  { key: 'languages', label: 'Languages', symbol: '<>' },
 ];
 
 export default function Skills() {

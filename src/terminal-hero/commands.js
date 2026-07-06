@@ -21,6 +21,7 @@ export const COMMANDS = {
       '  projects   - All projects\n' +
       '  skills     - Full tech stack\n' +
       '  posymed    - PoSyMed4U research project\n' +
+      '  pubs       - Publications\n' +
       '  resume     - Open resume PDF\n\n' +
       '  SOCIAL\n' +
       '  contact    - How to reach me\n' +
@@ -37,22 +38,18 @@ export const COMMANDS = {
       '  sudo       - ???\n' +
       '  hack       - ???\n' +
       '  genome     - ???',
-    speech: 'Here are all the commands. Try "posymed" or "langs".',
+    speech: 'Here are all the commands. Try "pubs" or "posymed".',
     action: 'nod', state: 'success',
   }),
 
   about: () => ({
     out:
       'ABOUT ME:\n' +
-      'Asihati Hazaiti — Software & Data Engineer.\n' +
-      'MSc Intelligent Adaptive Systems @ University of Hamburg.\n' +
-      'Software & Data Engineer @ Simplience GmbH (Hamburg).\n' +
-      '3 years prior @ ThoughtWorks China.\n\n' +
-      '  > AI / ML       — bio-inspired AI, computer vision, ML for genomics\n' +
-      '  > Robotics      — intelligent robotics, robot technology\n' +
-      '  > Data          — Spark, Databricks, gene-expression analysis\n' +
-      '  > Backend       — Java/Kotlin/Spring Boot, microservices, security\n' +
-      '  > Web/Mobile    — Angular, React, Ionic, TypeScript\n\n' +
+      'Software engineer with three years of consulting experience across banking, retail, and e-commerce,\n' +
+      'now completing an M.Sc. focused on machine learning and robotics at University of Hamburg.\n\n' +
+      '  > Research      — model-based reinforcement learning for continuous control (TD-MPC)\n' +
+      '  > Deep Learning — applied deep learning for biomedical data\n' +
+      '  > Engineering   — equally comfortable shipping production systems and running research experiments\n\n' +
       '  ───────────────────────────────────────────\n\n' +
       '  Born in Xinjiang. Raised in Tianjin.\n' +
       '  Coding in Hamburg. Dreaming in five languages.',
@@ -79,7 +76,7 @@ export const COMMANDS = {
       '  GPU:       PyTorch + Geneformer\n' +
       '  Memory:    Java/Kotlin/Python/TS/Go/C\n' +
       '  Languages: en C1, zh native, kk native, ug, de B1\n' +
-      '  Project:   PoSyMed4U (population systems medicine)',
+      '  Project:   TD-MPC / PoSyMed4U',
     state: 'success',
   }),
 
@@ -147,6 +144,18 @@ export const COMMANDS = {
       '  > Geneformer  — Transformer for single-cell genomics\n\n' +
       '  Stack: Python · PyTorch · scikit-learn · pandas',
     speech: 'PoSyMed4U is what I work on. Robots reading patient genomes.',
+    action: 'nod', state: 'success',
+  }),
+
+  pubs: () => ({
+    out:
+      'PUBLICATIONS:\n\n' +
+      '  [2026] When May I Help You? On the Effect of Proactivity\n' +
+      '         on Group Human-Robot Collaboration.\n' +
+      '         IEEE International Conference on Robot & Human Interactive Communication (RO-MAN)\n' +
+      '         T. Vitry, V. Maeder, K. Edgeworth, A. Hazaiti, et al.\n' +
+      '         arXiv:2606.28469',
+    speech: 'Here are my recent papers.',
     action: 'nod', state: 'success',
   }),
 
@@ -321,7 +330,7 @@ export const COMMANDS = {
   ls: () => ({
     out:
       '  about/      experience/  projects/   skills/\n' +
-      '  posymed/    langs/       contact/    resume.pdf',
+      '  posymed/    pubs/        langs/      contact/    resume.pdf',
     state: 'success',
   }),
   pwd: () => ({ out: '/home/asihati', state: 'success' }),

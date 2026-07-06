@@ -23,9 +23,7 @@ export default function Languages() {
                 </h3>
                 <span className="text-xs font-mono text-[var(--color-fg-dim)]">[{l.code}]</span>
               </div>
-              <div className="text-3xl text-[var(--color-accent)] font-display crt-glow my-3" lang={l.code}>
-                {l.greeting}
-              </div>
+
               <div className="text-xs font-mono text-[var(--color-fg-dim)] mb-2">{l.level}</div>
               <div className="h-1.5 bg-[var(--color-rule)] rounded overflow-hidden">
                 <div

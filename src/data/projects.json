@@ -1,5 +1,16 @@
 [
   {
+    "id": "roman2026",
+    "title": "When May I Help You?",
+    "subtitle": "Publication · RO-MAN 2026",
+    "tag": "AI/ML",
+    "duration": "2026",
+    "image": "/assets/projects/data.png",
+    "summary": "When May I Help You? On the Effect of Proactivity on Group Human-Robot Collaboration. IEEE International Conference on Robot & Human Interactive Communication. Authors: T. Vitry, V. Maeder, K. Edgeworth, A. Hazaiti, et al.",
+    "stack": ["Robotics", "HRI", "IEEE", "arXiv"],
+    "links": ["https://arxiv.org/abs/2606.28469"]
+  },
+  {
     "id": "posymed",
     "title": "PoSyMed4U",
     "subtitle": "Population Systems Medicine Platform",

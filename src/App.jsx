@@ -15,6 +15,7 @@ import useLocalStorage from './lib/useLocalStorage.js';
 import profile from './data/profile.json';
 
 const THEMES = {
+  gray: { accent: '#ffffff', dim: '#9ca3af', fg: '#d1d5db' },
   green: { accent: '#7cffb2', dim: '#3aa86b', fg: '#d6f7d6' },
   amber: { accent: '#ffb347', dim: '#a86d22', fg: '#f7e7c6' },
   magenta: { accent: '#ff5fd2', dim: '#a8237a', fg: '#f7d6e7' },
@@ -22,10 +23,10 @@ const THEMES = {
 
 export default function App() {
   const [soundOn, setSoundOn] = useLocalStorage('asihati.audio', false);
-  const [theme, setTheme] = useLocalStorage('asihati.theme', 'green');
+  const [theme, setTheme] = useLocalStorage('asihati.theme', 'gray');
 
   useEffect(() => {
-    const t = THEMES[theme] || THEMES.green;
+    const t = THEMES[theme] || THEMES.gray;
     document.documentElement.style.setProperty('--color-accent', t.accent);
     document.documentElement.style.setProperty('--color-accent-dim', t.dim);
     document.documentElement.style.setProperty('--color-fg', t.fg);

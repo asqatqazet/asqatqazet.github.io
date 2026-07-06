@@ -18,8 +18,8 @@
     "location": "Hamburg, DE",
     "start": "2024-10",
     "end": null,
-    "summary": "Graduate program at the intersection of AI, robotics, and cognitive systems. Coursework includes Bio-inspired AI, Machine Learning, Computer Vision, Robot Technology, Intelligent Robotics, Knowledge Processing, Biostatistics, and Advanced Software Engineering.",
-    "stack": ["Bio-inspired AI", "Machine Learning", "Computer Vision", "Intelligent Robotics", "Biostatistics"]
+    "summary": "Graduate program at the intersection of AI, robotics, and cognitive systems. Coursework includes Bio-inspired AI, Machine Learning, Computer Vision, Robot Technology, Intelligent Robotics. Thesis (in progress): Model-based reinforcement learning for continuous control (TD-MPC).",
+    "stack": ["Bio-inspired AI", "Machine Learning", "Computer Vision", "Intelligent Robotics", "TD-MPC"]
   },
   {
     "id": "thoughtworks",
