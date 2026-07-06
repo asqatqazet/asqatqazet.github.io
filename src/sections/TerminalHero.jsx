@@ -311,7 +311,7 @@ export default function TerminalHero() {
             [ RESUME ]
           </a>
           <a
-            href="https://linkedin.com/in/asihati-hazaiti"
+            href="https://linkedin.com/in/asqat"
             target="_blank"
             rel="noreferrer"
             className="text-gray-400 hover:text-white hover:bg-gray-800 px-3 py-2 rounded transition-all"

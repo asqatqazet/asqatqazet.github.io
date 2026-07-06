@@ -23,7 +23,7 @@ const THEMES = {
 
 export default function App() {
   const [soundOn, setSoundOn] = useLocalStorage('asihati.audio', false);
-  const [theme, setTheme] = useLocalStorage('asihati.theme', 'gray');
+  const [theme, setTheme] = useLocalStorage('asihati.theme.v2', 'gray');
 
   useEffect(() => {
     const t = THEMES[theme] || THEMES.gray;

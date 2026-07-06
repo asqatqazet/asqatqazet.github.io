@@ -231,7 +231,7 @@ export const COMMANDS = {
       'CONTACT INFORMATION:\n' +
       '  Email:    asqat@qq.com\n' +
       '  GitHub:   github.com/asqatqazet\n' +
-      '  LinkedIn: linkedin.com/in/asihati-hazaiti\n' +
+      '  LinkedIn: linkedin.com/in/asqat\n' +
       '  Location: Hamburg, DE',
     state: 'success', action: 'nod',
   }),
@@ -240,7 +240,7 @@ export const COMMANDS = {
     out:
       'EXTERNAL LINKS:\n' +
       '  [GitHub]   github.com/asqatqazet\n' +
-      '  [LinkedIn] linkedin.com/in/asihati-hazaiti\n' +
+      '  [LinkedIn] linkedin.com/in/asqat\n' +
       '  [Email]    asqat@qq.com\n' +
       '  [Resume]   /assets/Asihati_Hazaiti_Resume.pdf',
     state: 'success',
