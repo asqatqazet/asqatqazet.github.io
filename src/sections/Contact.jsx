@@ -10,7 +10,7 @@ const SIG = `       ,---.
 
 export default function Contact() {
   return (
-    <section id="contact" className="min-h-screen w-full snap-start px-4 sm:px-10 py-20 max-w-4xl mx-auto">
+    <section id="contact" className="w-full snap-start px-4 sm:px-10 py-20 max-w-4xl mx-auto">
       <SectionHeader tag="06" title="contact.sh" />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
         <div className="space-y-3 font-mono">

@@ -10,7 +10,7 @@ const LEVELS = {
 
 export default function Languages() {
   return (
-    <section id="langs" className="min-h-screen w-full snap-start px-4 sm:px-10 py-20 max-w-5xl mx-auto">
+    <section id="langs" className="w-full snap-start px-4 sm:px-10 py-20 max-w-5xl mx-auto">
       <SectionHeader tag="05" title="languages.cfg" />
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {profile.languages.map((l) => {
